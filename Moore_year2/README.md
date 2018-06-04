@@ -3,7 +3,6 @@
 These are the materials for the Year 2 report for the
 Data Carpentry project.
 
-The narrative will be made a public document after commentary. To comment on 
-the public posting, see the Google document
-
-https://docs.google.com/document/d/1z8hmrufu8MTkYBWrhLXEuX-XHVC9CRP8NaQ-K3VpNXs/edit
+- [Year 2 Annual Report Narrative](
+https://github.com/datacarpentry/reports/blob/master/Moore_year2/Moore_Year2_Annual_Report_Narrative.pd)
+- [Data collection](https://github.com/datacarpentry/reports/blob/master/Moore_year2/DataCarpentry_year2_Practices-Data-Collection.xlsx) - spreadsheet with information on activities and outputs
